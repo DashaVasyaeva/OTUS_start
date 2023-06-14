@@ -15,5 +15,5 @@ class Square(Figure):
 
     @staticmethod
     def check_if_can_create_square(a_side: int):
-        if not (a_side > 0):
+        if a_side <= 0:
             raise ValueError(f'Side must be greater than 0. Got: {a_side}')

@@ -17,7 +17,7 @@ def test_circle_creation_positive(radius, expected_perimeter, expected_area):
 
 @pytest.mark.parametrize('radius',
                          [
-                             0, (-1)
+                             0, -1
                          ],
                          ids=[
                              'radius is zero',
