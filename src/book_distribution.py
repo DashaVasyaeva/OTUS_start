@@ -3,10 +3,17 @@ import json
 
 
 def book_distribution():
-    # чтение csv файла, формирование списка с книгами
+    # чтение csv файла, формирование списка с книгами (берем не все поля из исходного файла)
     with open("books.csv", "r") as f:
         books = csv.DictReader(f)
-        books = [i for i in books]
+        new_books = []
+        for i in books:
+            book_res = {
+                key: value
+                for key, value in i.items()
+                if key in ["Title", "Author", "Genre", "Pages"]
+            }
+            new_books.append(book_res)
 
     # чтение json файла
     with open("users.json", "r") as f:
@@ -25,10 +32,10 @@ def book_distribution():
         users_result.append(user_res)
 
     # раздача книг юзерам
-    while books:
+    while new_books:
         for user_res in users_result:
-            if books:
-                user_res["books"].append(books.pop())
+            if new_books:
+                user_res["books"].append(new_books.pop())
             else:
                 break
 

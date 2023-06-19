@@ -9,66 +9,49 @@
                 "Title": "Christmas Carol",
                 "Author": " A",
                 "Genre": "Dickens, Charles",
-                "Pages": "fiction",
-                "Publisher": "196",
-                "null": [
-                    ""
-                ]
+                "Pages": "fiction"
             },
             {
                 "Title": "Men of Mathematics",
                 "Author": "Bell, E T",
                 "Genre": "mathematics",
-                "Pages": "217",
-                "Publisher": ""
+                "Pages": "217"
             },
             {
                 "Title": "Elements of Information Theory",
                 "Author": "Thomas, Joy",
                 "Genre": "data_science",
-                "Pages": "229",
-                "Publisher": ""
+                "Pages": "229"
             },
             {
                 "Title": "Char Shabda",
                 "Author": "Deshpande, P L",
                 "Genre": "nonfiction",
-                "Pages": "214",
-                "Publisher": ""
+                "Pages": "214"
             },
             {
                 "Title": "Age of Discontuinity",
                 "Author": " The",
                 "Genre": "Drucker, Peter",
-                "Pages": "economics",
-                "Publisher": "178",
-                "null": [
-                    "Random House"
-                ]
+                "Pages": "economics"
             },
             {
                 "Title": "All the President's Men",
                 "Author": "Woodward, Bob",
                 "Genre": "history",
-                "Pages": "177",
-                "Publisher": "Random House"
+                "Pages": "177"
             },
             {
                 "Title": "Tales of Mystery and Imagination",
                 "Author": "Poe, Edgar Allen",
                 "Genre": "fiction",
-                "Pages": "172",
-                "Publisher": "HarperCollins"
+                "Pages": "172"
             },
             {
                 "Title": "Age of Wrath",
                 "Author": " The",
                 "Genre": "Eraly, Abraham",
-                "Pages": "history",
-                "Publisher": "238",
-                "null": [
-                    "Penguin"
-                ]
+                "Pages": "history"
             }
         ]
     },
@@ -82,69 +65,49 @@
                 "Title": "Idiot",
                 "Author": " The",
                 "Genre": "Dostoevsky, Fyodor",
-                "Pages": "fiction",
-                "Publisher": "197",
-                "null": [
-                    ""
-                ]
+                "Pages": "fiction"
             },
             {
                 "Title": "Broca's Brain",
                 "Author": "Sagan, Carl",
                 "Genre": "science",
-                "Pages": "174",
-                "Publisher": ""
+                "Pages": "174"
             },
             {
                 "Title": "Journal of Economics",
                 "Author": " vol 106 No 3",
                 "Genre": "",
-                "Pages": "economics",
-                "Publisher": "235",
-                "null": [
-                    ""
-                ]
+                "Pages": "economics"
             },
             {
                 "Title": "Veil: Secret Wars of the CIA",
                 "Author": "Woodward, Bob",
                 "Genre": "history",
-                "Pages": "171",
-                "Publisher": ""
+                "Pages": "171"
             },
             {
                 "Title": "Burning Bright",
                 "Author": "Steinbeck, John",
                 "Genre": "fiction",
-                "Pages": "175",
-                "Publisher": "Penguin"
+                "Pages": "175"
             },
             {
                 "Title": "Raisin in the Sun",
                 "Author": " A",
                 "Genre": "Hansberry, Lorraine",
-                "Pages": "fiction",
-                "Publisher": "175",
-                "null": [
-                    "Penguin"
-                ]
+                "Pages": "fiction"
             },
             {
                 "Title": "Russian Journal",
                 "Author": " A",
                 "Genre": "Steinbeck, John",
-                "Pages": "nonfiction",
-                "Publisher": "196",
-                "null": [
-                    "Penguin"
-                ]
+                "Pages": "nonfiction"
             },
             {
                 "Title": "Structure & Interpretation of Computer Programs",
                 "Author": "Sussman, Gerald",
                 "Genre": "computer_science",
-                "Pages": "240",
-                "Publisher": "MIT Press"
+                "Pages": "240"
             }
         ]
     },
@@ -158,69 +121,49 @@
                 "Title": "Animal Farm",
                 "Author": "Orwell, George",
                 "Genre": "fiction",
-                "Pages": "180",
-                "Publisher": ""
+                "Pages": "180"
             },
             {
                 "Title": "Data Analysis with Open Source Tools",
                 "Author": "Janert, Phillip",
                 "Genre": "data_science",
-                "Pages": "230",
-                "Publisher": ""
+                "Pages": "230"
             },
             {
                 "Title": "Information",
                 "Author": " The",
                 "Genre": "Gleick, James",
-                "Pages": "science",
-                "Publisher": "233",
-                "null": [
-                    ""
-                ]
+                "Pages": "science"
             },
             {
                 "Title": "Deceiver",
                 "Author": " The",
                 "Genre": "Forsyth, Frederick",
-                "Pages": "fiction",
-                "Publisher": "178",
-                "null": [
-                    ""
-                ]
+                "Pages": "fiction"
             },
             {
                 "Title": "Hunchback of Notre Dame",
                 "Author": " The",
                 "Genre": "Hugo, Victor",
-                "Pages": "fiction",
-                "Publisher": "175",
-                "null": [
-                    "Random House"
-                ]
+                "Pages": "fiction"
             },
             {
                 "Title": "Idea of Justice",
                 "Author": " The",
                 "Genre": "Sen, Amartya",
-                "Pages": "nonfiction",
-                "Publisher": "212",
-                "null": [
-                    "Penguin"
-                ]
+                "Pages": "nonfiction"
             },
             {
                 "Title": "Jurassic Park",
                 "Author": "Crichton, Michael",
                 "Genre": "fiction",
-                "Pages": "174",
-                "Publisher": "Random House"
+                "Pages": "174"
             },
             {
                 "Title": "Birth of a Theorem",
                 "Author": "Villani, Cedric",
                 "Genre": "mathematics",
-                "Pages": "234",
-                "Publisher": "Bodley Head"
+                "Pages": "234"
             }
         ]
     },
@@ -234,63 +177,49 @@
                 "Title": "Image Processing with MATLAB",
                 "Author": "Eddins, Steve",
                 "Genre": "signal_processing",
-                "Pages": "241",
-                "Publisher": ""
+                "Pages": "241"
             },
             {
                 "Title": "World's Great Thinkers",
                 "Author": " The",
                 "Genre": "",
-                "Pages": "philosophy",
-                "Publisher": "189",
-                "null": [
-                    ""
-                ]
+                "Pages": "philosophy"
             },
             {
                 "Title": "Life in Letters",
                 "Author": " A",
                 "Genre": "Steinbeck, John",
-                "Pages": "nonfiction",
-                "Publisher": "196",
-                "null": [
-                    ""
-                ]
+                "Pages": "nonfiction"
             },
             {
                 "Title": "Unpopular Essays",
                 "Author": "Russell, Bertrand",
                 "Genre": "philosophy",
-                "Pages": "198",
-                "Publisher": ""
+                "Pages": "198"
             },
             {
                 "Title": "Electric Universe",
                 "Author": "Bodanis, David",
                 "Genre": "science",
-                "Pages": "201",
-                "Publisher": "Penguin"
+                "Pages": "201"
             },
             {
                 "Title": "Sea of Poppies",
                 "Author": "Ghosh, Amitav",
                 "Genre": "fiction",
-                "Pages": "197",
-                "Publisher": "Penguin"
+                "Pages": "197"
             },
             {
                 "Title": "Return of the Primitive",
                 "Author": "Rand, Ayn",
                 "Genre": "philosophy",
-                "Pages": "202",
-                "Publisher": "Penguin"
+                "Pages": "202"
             },
             {
                 "Title": "Slaughterhouse Five",
                 "Author": "Vonnegut, Kurt",
                 "Genre": "fiction",
-                "Pages": "198",
-                "Publisher": "Random House"
+                "Pages": "198"
             }
         ]
     },
@@ -304,63 +233,49 @@
                 "Title": "Structure and Randomness",
                 "Author": "Tao, Terence",
                 "Genre": "mathematics",
-                "Pages": "252",
-                "Publisher": ""
+                "Pages": "252"
             },
             {
                 "Title": "Philosophy: Who Needs It",
                 "Author": "Rand, Ayn",
                 "Genre": "philosophy",
-                "Pages": "171",
-                "Publisher": ""
+                "Pages": "171"
             },
             {
                 "Title": "Batman: The Long Halloween",
                 "Author": "",
                 "Genre": "comic",
-                "Pages": "258",
-                "Publisher": ""
+                "Pages": "258"
             },
             {
                 "Title": "Apulki",
                 "Author": "Deshpande, P L",
                 "Genre": "nonfiction",
-                "Pages": "211",
-                "Publisher": ""
+                "Pages": "211"
             },
             {
                 "Title": "New Markets & Other Essays",
                 "Author": "Drucker, Peter",
                 "Genre": "economics",
-                "Pages": "176",
-                "Publisher": "Penguin"
+                "Pages": "176"
             },
             {
                 "Title": "Argumentative Indian",
                 "Author": " The",
                 "Genre": "Sen, Amartya",
-                "Pages": "nonfiction",
-                "Publisher": "209",
-                "null": [
-                    "Picador"
-                ]
+                "Pages": "nonfiction"
             },
             {
                 "Title": "Last Lecture",
                 "Author": " The",
                 "Genre": "Pausch, Randy",
-                "Pages": "nonfiction",
-                "Publisher": "197",
-                "null": [
-                    "Hyperion"
-                ]
+                "Pages": "nonfiction"
             },
             {
                 "Title": "Data Scientists at Work",
                 "Author": "Sebastian Gutierrez",
                 "Genre": "data_science",
-                "Pages": "230",
-                "Publisher": "Apress"
+                "Pages": "230"
             }
         ]
     },
@@ -374,63 +289,49 @@
                 "Title": "Murphy's Law",
                 "Author": "",
                 "Genre": "nonfiction",
-                "Pages": "178",
-                "Publisher": ""
+                "Pages": "178"
             },
             {
                 "Title": "Ayn Rand Answers",
                 "Author": "Rand, Ayn",
                 "Genre": "philosophy",
-                "Pages": "203",
-                "Publisher": ""
+                "Pages": "203"
             },
             {
                 "Title": "History of the DC Universe",
                 "Author": "",
                 "Genre": "comic",
-                "Pages": "258",
-                "Publisher": ""
+                "Pages": "258"
             },
             {
                 "Title": "Discovery of India",
                 "Author": " The",
                 "Genre": "Nehru, Jawaharlal",
-                "Pages": "history",
-                "Publisher": "230",
-                "null": [
-                    ""
-                ]
+                "Pages": "history"
             },
             {
                 "Title": "Theory of Everything",
                 "Author": " The",
                 "Genre": "Hawking, Stephen",
-                "Pages": "science",
-                "Publisher": "217",
-                "null": [
-                    "Jaico"
-                ]
+                "Pages": "science"
             },
             {
                 "Title": "Angels & Demons",
                 "Author": "Brown, Dan",
                 "Genre": "fiction",
-                "Pages": "178",
-                "Publisher": "Random House"
+                "Pages": "178"
             },
             {
                 "Title": "False Impressions",
                 "Author": "Archer, Jeffery",
                 "Genre": "fiction",
-                "Pages": "177",
-                "Publisher": "Pan"
+                "Pages": "177"
             },
             {
                 "Title": "How to Think Like Sherlock Holmes",
                 "Author": "Konnikova, Maria",
                 "Genre": "psychology",
-                "Pages": "240",
-                "Publisher": "Penguin"
+                "Pages": "240"
             }
         ]
     },
@@ -444,69 +345,49 @@
                 "Title": "Batman Handbook",
                 "Author": "",
                 "Genre": "comic",
-                "Pages": "270",
-                "Publisher": ""
+                "Pages": "270"
             },
             {
                 "Title": "Devil's Advocate",
                 "Author": " The",
                 "Genre": "West, Morris",
-                "Pages": "fiction",
-                "Publisher": "178",
-                "null": [
-                    ""
-                ]
+                "Pages": "fiction"
             },
             {
                 "Title": "Death of Superman",
                 "Author": " The",
                 "Genre": "",
-                "Pages": "comic",
-                "Publisher": "258",
-                "null": [
-                    ""
-                ]
+                "Pages": "comic"
             },
             {
                 "Title": "Half A Life",
                 "Author": "Naipaul, V S",
                 "Genre": "fiction",
-                "Pages": "196",
-                "Publisher": ""
+                "Pages": "196"
             },
             {
                 "Title": "Case of the Lame Canary",
                 "Author": " The",
                 "Genre": "Gardner, Earle Stanley",
-                "Pages": "fiction",
-                "Publisher": "179",
-                "null": [
-                    ""
-                ]
+                "Pages": "fiction"
             },
             {
                 "Title": "Crime and Punishment",
                 "Author": "Dostoevsky, Fyodor",
                 "Genre": "fiction",
-                "Pages": "180",
-                "Publisher": "Penguin"
+                "Pages": "180"
             },
             {
                 "Title": "Veteran",
                 "Author": " The",
                 "Genre": "Forsyth, Frederick",
-                "Pages": "fiction",
-                "Publisher": "177",
-                "null": [
-                    "Transworld"
-                ]
+                "Pages": "fiction"
             },
             {
                 "Title": "Image Processing & Mathematical Morphology",
                 "Author": "Shih, Frank",
                 "Genre": "signal_processing",
-                "Pages": "241",
-                "Publisher": "CRC"
+                "Pages": "241"
             }
         ]
     },
@@ -520,66 +401,49 @@
                 "Title": "Girl who played with Fire",
                 "Author": "Larsson, Steig",
                 "Genre": "fiction",
-                "Pages": "179",
-                "Publisher": ""
+                "Pages": "179"
             },
             {
                 "Title": "Think Complexity",
                 "Author": "Downey, Allen",
                 "Genre": "data_science",
-                "Pages": "230",
-                "Publisher": ""
+                "Pages": "230"
             },
             {
                 "Title": "Justice League: The Villain's Journey",
                 "Author": "",
                 "Genre": "comic",
-                "Pages": "258",
-                "Publisher": ""
+                "Pages": "258"
             },
             {
                 "Title": "To Sir With Love",
                 "Author": "Braithwaite",
                 "Genre": "fiction",
-                "Pages": "197",
-                "Publisher": "Penguin"
+                "Pages": "197"
             },
             {
                 "Title": "Bookless in Baghdad",
                 "Author": "Tharoor, Shashi",
                 "Genre": "nonfiction",
-                "Pages": "206",
-                "Publisher": "Penguin"
+                "Pages": "206"
             },
             {
                 "Title": "Amulet of Samarkand",
                 "Author": " The",
                 "Genre": "Stroud, Jonathan",
-                "Pages": "fiction",
-                "Publisher": "179",
-                "null": [
-                    "Random House"
-                ]
+                "Pages": "fiction"
             },
             {
                 "Title": "Farewell to Arms",
                 "Author": " A",
                 "Genre": "Hemingway, Ernest",
-                "Pages": "fiction",
-                "Publisher": "179",
-                "null": [
-                    "Rupa"
-                ]
+                "Pages": "fiction"
             },
             {
                 "Title": "Drunkard's Walk",
                 "Author": " The",
                 "Genre": "Mlodinow, Leonard",
-                "Pages": "science",
-                "Publisher": "197",
-                "null": [
-                    "Penguin"
-                ]
+                "Pages": "science"
             }
         ]
     },
@@ -593,57 +457,49 @@
                 "Title": "Girl who kicked the Hornet's Nest",
                 "Author": "Larsson, Steig",
                 "Genre": "fiction",
-                "Pages": "179",
-                "Publisher": ""
+                "Pages": "179"
             },
             {
                 "Title": "Design with OpAmps",
                 "Author": "Franco, Sergio",
                 "Genre": "computer_science",
-                "Pages": "240",
-                "Publisher": ""
+                "Pages": "240"
             },
             {
                 "Title": "Justice League: Throne of Atlantis",
                 "Author": "",
                 "Genre": "comic",
-                "Pages": "258",
-                "Publisher": ""
+                "Pages": "258"
             },
             {
                 "Title": "Karl Marx Biography",
                 "Author": "",
                 "Genre": "nonfiction",
-                "Pages": "162",
-                "Publisher": ""
+                "Pages": "162"
             },
             {
                 "Title": "Free Will",
                 "Author": "Harris, Sam",
                 "Genre": "philosophy",
-                "Pages": "203",
-                "Publisher": "FreePress"
+                "Pages": "203"
             },
             {
                 "Title": "Let Us C",
                 "Author": "Kanetkar, Yashwant",
                 "Genre": "computer_science",
-                "Pages": "213",
-                "Publisher": "Prentice Hall"
+                "Pages": "213"
             },
             {
                 "Title": "Surely You're Joking Mr Feynman",
                 "Author": "Feynman, Richard",
                 "Genre": "science",
-                "Pages": "198",
-                "Publisher": "Random House"
+                "Pages": "198"
             },
             {
                 "Title": "Integration of the Indian States",
                 "Author": "Menon, V P",
                 "Genre": "history",
-                "Pages": "217",
-                "Publisher": "Orient Blackswan"
+                "Pages": "217"
             }
         ]
     },
@@ -657,66 +513,49 @@
                 "Title": "Girl with the Dragon Tattoo",
                 "Author": "Larsson, Steig",
                 "Genre": "fiction",
-                "Pages": "179",
-                "Publisher": ""
+                "Pages": "179"
             },
             {
                 "Title": "Cathedral and the Bazaar",
                 "Author": " The",
                 "Genre": "Raymond, Eric",
-                "Pages": "computer_science",
-                "Publisher": "217",
-                "null": [
-                    ""
-                ]
+                "Pages": "computer_science"
             },
             {
                 "Title": "Superman Earth One - 2",
                 "Author": "",
                 "Genre": "comic",
-                "Pages": "258",
-                "Publisher": ""
+                "Pages": "258"
             },
             {
                 "Title": "One",
                 "Author": "Bach, Richard",
                 "Genre": "nonfiction",
-                "Pages": "172",
-                "Publisher": "Dell"
+                "Pages": "172"
             },
             {
                 "Title": "On Education",
                 "Author": "Russell, Bertrand",
                 "Genre": "philosophy",
-                "Pages": "203",
-                "Publisher": "Routledge"
+                "Pages": "203"
             },
             {
                 "Title": "Principles of Communication Systems",
                 "Author": "Taub, Schilling",
                 "Genre": "computer_science",
-                "Pages": "240",
-                "Publisher": "TMH"
+                "Pages": "240"
             },
             {
                 "Title": "Tao of Physics",
                 "Author": " The",
                 "Genre": "Capra, Fritjof",
-                "Pages": "science",
-                "Publisher": "179",
-                "null": [
-                    "Penguin"
-                ]
+                "Pages": "science"
             },
             {
                 "Title": "Nature of Statistical Learning Theory",
                 "Author": " The",
                 "Genre": "Vapnik, Vladimir",
-                "Pages": "data_science",
-                "Publisher": "230",
-                "null": [
-                    "Springer"
-                ]
+                "Pages": "data_science"
             }
         ]
     },
@@ -730,63 +569,49 @@
                 "Title": "Tales of Beedle the Bard",
                 "Author": "Rowling, J K",
                 "Genre": "fiction",
-                "Pages": "184",
-                "Publisher": ""
+                "Pages": "184"
             },
             {
                 "Title": "Pointers in C",
                 "Author": "Kanetkar, Yashwant",
                 "Genre": "computer_science",
-                "Pages": "213",
-                "Publisher": ""
+                "Pages": "213"
             },
             {
                 "Title": "Superman Earth One - 1",
                 "Author": "",
                 "Genre": "comic",
-                "Pages": "259",
-                "Publisher": ""
+                "Pages": "259"
             },
             {
                 "Title": "Uncommon Wisdom",
                 "Author": "Capra, Fritjof",
                 "Genre": "nonfiction",
-                "Pages": "197",
-                "Publisher": "Fontana"
+                "Pages": "197"
             },
             {
                 "Title": "Winter of Our Discontent",
                 "Author": " The",
                 "Genre": "Steinbeck, John",
-                "Pages": "fiction",
-                "Publisher": "196",
-                "null": [
-                    "Penguin"
-                ]
+                "Pages": "fiction"
             },
             {
                 "Title": "Computer Vision",
                 "Author": " A Modern Approach",
                 "Genre": "Forsyth, David",
-                "Pages": "data_science",
-                "Publisher": "255",
-                "null": [
-                    "Pearson"
-                ]
+                "Pages": "data_science"
             },
             {
                 "Title": "Mein Kampf",
                 "Author": "Hitler, Adolf",
                 "Genre": "nonfiction",
-                "Pages": "212",
-                "Publisher": "Rupa"
+                "Pages": "212"
             },
             {
                 "Title": "Orientalism",
                 "Author": "Said, Edward",
                 "Genre": "history",
-                "Pages": "197",
-                "Publisher": "Penguin"
+                "Pages": "197"
             }
         ]
     },
@@ -800,63 +625,49 @@
                 "Title": "Eyeless in Gaza",
                 "Author": "Huxley, Aldous",
                 "Genre": "fiction",
-                "Pages": "180",
-                "Publisher": ""
+                "Pages": "180"
             },
             {
                 "Title": "Urlasurla",
                 "Author": "Deshpande P L",
                 "Genre": "fiction",
-                "Pages": "211",
-                "Publisher": ""
+                "Pages": "211"
             },
             {
                 "Title": "Numbers Behind Numb3rs",
                 "Author": " The",
                 "Genre": "Devlin, Keith",
-                "Pages": "science",
-                "Publisher": "202",
-                "null": [
-                    ""
-                ]
+                "Pages": "science"
             },
             {
                 "Title": "Clash of Civilizations and Remaking of the World Order",
                 "Author": "Huntington, Samuel",
                 "Genre": "history",
-                "Pages": "228",
-                "Publisher": "Simon&Schuster"
+                "Pages": "228"
             },
             {
                 "Title": "Freedom at Midnight",
                 "Author": "Lapierre, Dominique",
                 "Genre": "history",
-                "Pages": "167",
-                "Publisher": "vikas"
+                "Pages": "167"
             },
             {
                 "Title": "Data Structures Using C & C++",
                 "Author": "Tanenbaum, Andrew",
                 "Genre": "computer_science",
-                "Pages": "235",
-                "Publisher": "Prentice Hall"
+                "Pages": "235"
             },
             {
                 "Title": "Pillars of the Earth",
                 "Author": " The",
                 "Genre": "Follett, Ken",
-                "Pages": "fiction",
-                "Publisher": "176",
-                "null": [
-                    "Random House"
-                ]
+                "Pages": "fiction"
             },
             {
                 "Title": "Superfreakonomics",
                 "Author": "Dubner, Stephen",
                 "Genre": "economics",
-                "Pages": "179",
-                "Publisher": "HarperCollins"
+                "Pages": "179"
             }
         ]
     },
@@ -870,66 +681,49 @@
                 "Title": "Prince",
                 "Author": " The",
                 "Genre": "Machiavelli",
-                "Pages": "philosophy",
-                "Publisher": "173",
-                "null": [
-                    ""
-                ]
+                "Pages": "philosophy"
             },
             {
                 "Title": "Hafasavnuk",
                 "Author": "Deshpande P L",
                 "Genre": "fiction",
-                "Pages": "211",
-                "Publisher": ""
+                "Pages": "211"
             },
             {
                 "Title": "Crisis on Infinite Earths",
                 "Author": "",
                 "Genre": "comic",
-                "Pages": "258",
-                "Publisher": ""
+                "Pages": "258"
             },
             {
                 "Title": "Rationality & Freedom",
                 "Author": "Sen, Amartya",
                 "Genre": "economics",
-                "Pages": "213",
-                "Publisher": "Springer"
+                "Pages": "213"
             },
             {
                 "Title": "City of Joy",
                 "Author": " The",
                 "Genre": "Lapierre, Dominique",
-                "Pages": "fiction",
-                "Publisher": "177",
-                "null": [
-                    "vikas"
-                ]
+                "Pages": "fiction"
             },
             {
                 "Title": "Learning OpenCV",
                 "Author": "Bradsky, Gary",
                 "Genre": "data_science",
-                "Pages": "232",
-                "Publisher": "O'Reilly"
+                "Pages": "232"
             },
             {
                 "Title": "Wealth of Nations",
                 "Author": " The",
                 "Genre": "Smith, Adam",
-                "Pages": "economics",
-                "Publisher": "175",
-                "null": [
-                    "Random House"
-                ]
+                "Pages": "economics"
             },
             {
                 "Title": "God Created the Integers",
                 "Author": "Hawking, Stephen",
                 "Genre": "mathematics",
-                "Pages": "197",
-                "Publisher": "Penguin"
+                "Pages": "197"
             }
         ]
     },
@@ -943,63 +737,49 @@
                 "Title": "Attorney",
                 "Author": " The",
                 "Genre": "",
-                "Pages": "fiction",
-                "Publisher": "170",
-                "null": [
-                    ""
-                ]
+                "Pages": "fiction"
             },
             {
                 "Title": "Batatyachi Chal",
                 "Author": "Deshpande P L",
                 "Genre": "fiction",
-                "Pages": "200",
-                "Publisher": ""
+                "Pages": "200"
             },
             {
                 "Title": "Batman Earth One",
                 "Author": "",
                 "Genre": "comic",
-                "Pages": "265",
-                "Publisher": ""
+                "Pages": "265"
             },
             {
                 "Title": "Selected Short Stories",
                 "Author": "",
                 "Genre": "fiction",
-                "Pages": "215",
-                "Publisher": "Jaico"
+                "Pages": "215"
             },
             {
                 "Title": "O Jerusalem!",
                 "Author": "Lapierre, Dominique",
                 "Genre": "history",
-                "Pages": "217",
-                "Publisher": "vikas"
+                "Pages": "217"
             },
             {
                 "Title": "Econometric Analysis",
                 "Author": "Greene, W. H.",
                 "Genre": "economics",
-                "Pages": "242",
-                "Publisher": "Pearson"
+                "Pages": "242"
             },
             {
                 "Title": "Complete Sherlock Holmes",
                 "Author": " The - Vol II",
                 "Genre": "Doyle, Arthur Conan",
-                "Pages": "fiction",
-                "Publisher": "176",
-                "null": [
-                    "Random House"
-                ]
+                "Pages": "fiction"
             },
             {
                 "Title": "Data Smart",
                 "Author": "Foreman, John",
                 "Genre": "data_science",
-                "Pages": "235",
-                "Publisher": "Wiley"
+                "Pages": "235"
             }
         ]
     },
@@ -1013,66 +793,49 @@
                 "Title": "Judge",
                 "Author": " The",
                 "Genre": "",
-                "Pages": "fiction",
-                "Publisher": "170",
-                "null": [
-                    ""
-                ]
+                "Pages": "fiction"
             },
             {
                 "Title": "20000 Leagues Under the Sea",
                 "Author": "Verne, Jules",
                 "Genre": "fiction",
-                "Pages": "190",
-                "Publisher": ""
+                "Pages": "190"
             },
             {
                 "Title": "Flashpoint",
                 "Author": "",
                 "Genre": "comic",
-                "Pages": "265",
-                "Publisher": ""
+                "Pages": "265"
             },
             {
                 "Title": "History of Western Philosophy",
                 "Author": "Russell, Bertrand",
                 "Genre": "philosophy",
-                "Pages": "213",
-                "Publisher": "Routledge"
+                "Pages": "213"
             },
             {
                 "Title": "Great Indian Novel",
                 "Author": " The",
                 "Genre": "Tharoor, Shashi",
-                "Pages": "fiction",
-                "Publisher": "198",
-                "null": [
-                    "Penguin"
-                ]
+                "Pages": "fiction"
             },
             {
                 "Title": "Textbook of Economic Theory",
                 "Author": "Stonier, Alfred",
                 "Genre": "economics",
-                "Pages": "242",
-                "Publisher": "Pearson"
+                "Pages": "242"
             },
             {
                 "Title": "Complete Sherlock Holmes",
                 "Author": " The - Vol I",
                 "Genre": "Doyle, Arthur Conan",
-                "Pages": "fiction",
-                "Publisher": "176",
-                "null": [
-                    "Random House"
-                ]
+                "Pages": "fiction"
             },
             {
                 "Title": "Fundamentals of Wavelets",
                 "Author": "Goswami, Jaideva",
                 "Genre": "signal_processing",
-                "Pages": "228",
-                "Publisher": "Wiley"
+                "Pages": "228"
             }
         ]
     },
@@ -1086,62 +849,43 @@
                 "Title": "Angels & Demons",
                 "Author": "Brown, Dan",
                 "Genre": "fiction",
-                "Pages": "170",
-                "Publisher": ""
+                "Pages": "170"
             },
             {
                 "Title": "Jim Corbett Omnibus",
                 "Author": "Corbett, Jim",
                 "Genre": "nonfiction",
-                "Pages": "223",
-                "Publisher": ""
+                "Pages": "223"
             },
             {
                 "Title": "Killing Joke",
                 "Author": " The",
                 "Genre": "",
-                "Pages": "comic",
-                "Publisher": "283",
-                "null": [
-                    ""
-                ]
+                "Pages": "comic"
             },
             {
                 "Title": "Artist and the Mathematician",
                 "Author": " The",
                 "Genre": "Aczel, Amir",
-                "Pages": "science",
-                "Publisher": "186",
-                "null": [
-                    "HighStakes"
-                ]
+                "Pages": "science"
             },
             {
                 "Title": "World's Greatest Trials",
                 "Author": " The",
                 "Genre": "",
-                "Pages": "history",
-                "Publisher": "210",
-                "null": [
-                    ""
-                ]
+                "Pages": "history"
             },
             {
                 "Title": "Soft Computing & Intelligent Systems",
                 "Author": "Gupta, Madan",
                 "Genre": "data_science",
-                "Pages": "242",
-                "Publisher": "Elsevier"
+                "Pages": "242"
             },
             {
                 "Title": "Outsider",
                 "Author": " The",
                 "Genre": "Camus, Albert",
-                "Pages": "fiction",
-                "Publisher": "198",
-                "null": [
-                    "Penguin"
-                ]
+                "Pages": "fiction"
             }
         ]
     },
@@ -1155,56 +899,43 @@
                 "Title": "Ropemaker",
                 "Author": " The",
                 "Genre": "Dickinson, Peter",
-                "Pages": "fiction",
-                "Publisher": "196",
-                "null": [
-                    ""
-                ]
+                "Pages": "fiction"
             },
             {
                 "Title": "Mossad",
                 "Author": "Baz-Zohar, Michael",
                 "Genre": "history",
-                "Pages": "236",
-                "Publisher": ""
+                "Pages": "236"
             },
             {
                 "Title": "Final Crisis",
                 "Author": "",
                 "Genre": "comic",
-                "Pages": "257",
-                "Publisher": ""
+                "Pages": "257"
             },
             {
                 "Title": "We the Living",
                 "Author": "Rand, Ayn",
                 "Genre": "fiction",
-                "Pages": "178",
-                "Publisher": "Penguin"
+                "Pages": "178"
             },
             {
                 "Title": "India from Midnight to Milennium",
                 "Author": "Tharoor, Shashi",
                 "Genre": "history",
-                "Pages": "198",
-                "Publisher": "Penguin"
+                "Pages": "198"
             },
             {
                 "Title": "Dylan on Dylan",
                 "Author": "Dylan, Bob",
                 "Genre": "nonfiction",
-                "Pages": "197",
-                "Publisher": "Random House"
+                "Pages": "197"
             },
             {
                 "Title": "Beautiful and the Damned",
                 "Author": " The",
                 "Genre": "Deb, Siddhartha",
-                "Pages": "nonfiction",
-                "Publisher": "198",
-                "null": [
-                    "Penguin"
-                ]
+                "Pages": "nonfiction"
             }
         ]
     },
@@ -1218,59 +949,43 @@
                 "Title": "More Tears to Cry",
                 "Author": "Sassoon, Jean",
                 "Genre": "fiction",
-                "Pages": "235",
-                "Publisher": ""
+                "Pages": "235"
             },
             {
                 "Title": "Empire of the Mughal - Raiders from the North",
                 "Author": "Rutherford, Alex",
                 "Genre": "history",
-                "Pages": "180",
-                "Publisher": ""
+                "Pages": "180"
             },
             {
                 "Title": "Age of the Warrior",
                 "Author": " The",
                 "Genre": "Fisk, Robert",
-                "Pages": "history",
-                "Publisher": "197",
-                "null": [
-                    ""
-                ]
+                "Pages": "history"
             },
             {
                 "Title": "Great War for Civilization",
                 "Author": " The",
                 "Genre": "Fisk, Robert",
-                "Pages": "history",
-                "Publisher": "197",
-                "null": [
-                    "HarperCollins"
-                ]
+                "Pages": "history"
             },
             {
                 "Title": "Manasa",
                 "Author": "Kale, V P",
                 "Genre": "nonfiction",
-                "Pages": "213",
-                "Publisher": "Mauj"
+                "Pages": "213"
             },
             {
                 "Title": "Complete Mastermind",
                 "Author": " The",
                 "Genre": "BBC",
-                "Pages": "nonfiction",
-                "Publisher": "178",
-                "null": [
-                    "BBC"
-                ]
+                "Pages": "nonfiction"
             },
             {
                 "Title": "Introduction to Algorithms",
                 "Author": "Cormen, Thomas",
                 "Genre": "computer_science",
-                "Pages": "234",
-                "Publisher": "MIT Press"
+                "Pages": "234"
             }
         ]
     },
@@ -1284,53 +999,43 @@
                 "Title": "India's Legal System",
                 "Author": "Nariman",
                 "Genre": "nonfiction",
-                "Pages": "177",
-                "Publisher": ""
+                "Pages": "177"
             },
             {
                 "Title": "Empire of the Mughal - The Serpent's Tooth",
                 "Author": "Rutherford, Alex",
                 "Genre": "history",
-                "Pages": "180",
-                "Publisher": ""
+                "Pages": "180"
             },
             {
                 "Title": "Code Book",
                 "Author": " The",
                 "Genre": "Singh, Simon",
-                "Pages": "science",
-                "Publisher": "197",
-                "null": [
-                    ""
-                ]
+                "Pages": "science"
             },
             {
                 "Title": "Zen & The Art of Motorcycle Maintenance",
                 "Author": "Pirsig, Robert",
                 "Genre": "philosophy",
-                "Pages": "172",
-                "Publisher": "Vintage"
+                "Pages": "172"
             },
             {
                 "Title": "Beyond Degrees",
                 "Author": "",
                 "Genre": "nonfiction",
-                "Pages": "222",
-                "Publisher": "HarperCollins"
+                "Pages": "222"
             },
             {
                 "Title": "Catch 22",
                 "Author": "Heller, Joseph",
                 "Genre": "fiction",
-                "Pages": "178",
-                "Publisher": "Random House"
+                "Pages": "178"
             },
             {
                 "Title": "Python for Data Analysis",
                 "Author": "McKinney, Wes",
                 "Genre": "data_science",
-                "Pages": "233",
-                "Publisher": "O'Reilly"
+                "Pages": "233"
             }
         ]
     },
@@ -1344,53 +1049,43 @@
                 "Title": "City of Djinns",
                 "Author": "Dalrymple, William",
                 "Genre": "history",
-                "Pages": "198",
-                "Publisher": ""
+                "Pages": "198"
             },
             {
                 "Title": "Empire of the Mughal - Ruler of the World",
                 "Author": "Rutherford, Alex",
                 "Genre": "history",
-                "Pages": "180",
-                "Publisher": ""
+                "Pages": "180"
             },
             {
                 "Title": "From Beirut to Jerusalem",
                 "Author": "Friedman, Thomas",
                 "Genre": "history",
-                "Pages": "202",
-                "Publisher": ""
+                "Pages": "202"
             },
             {
                 "Title": "Ashenden of The British Agent",
                 "Author": "Maugham, William S",
                 "Genre": "fiction",
-                "Pages": "160",
-                "Publisher": "Vintage"
+                "Pages": "160"
             },
             {
                 "Title": "Maqta-e-Ghalib",
                 "Author": "Garg, Sanjay",
                 "Genre": "fiction",
-                "Pages": "221",
-                "Publisher": "Mauj"
+                "Pages": "221"
             },
             {
                 "Title": "In a Free State",
                 "Author": "Naipaul, V. S.",
                 "Genre": "fiction",
-                "Pages": "196",
-                "Publisher": "Rupa"
+                "Pages": "196"
             },
             {
                 "Title": "Signal and the Noise",
                 "Author": " The",
                 "Genre": "Silver, Nate",
-                "Pages": "data_science",
-                "Publisher": "233",
-                "null": [
-                    "Penguin"
-                ]
+                "Pages": "data_science"
             }
         ]
     },
@@ -1404,59 +1099,43 @@
                 "Title": "History of England",
                 "Author": " Foundation",
                 "Genre": "Ackroyd, Peter",
-                "Pages": "history",
-                "Publisher": "197",
-                "null": [
-                    ""
-                ]
+                "Pages": "history"
             },
             {
                 "Title": "Empire of the Mughal - Brothers at War",
                 "Author": "Rutherford, Alex",
                 "Genre": "history",
-                "Pages": "180",
-                "Publisher": ""
+                "Pages": "180"
             },
             {
                 "Title": "Pattern Classification",
                 "Author": "Duda, Hart",
                 "Genre": "data_science",
-                "Pages": "241",
-                "Publisher": ""
+                "Pages": "241"
             },
             {
                 "Title": "Phantom of Manhattan",
                 "Author": " The",
                 "Genre": "Forsyth, Frederick",
-                "Pages": "fiction",
-                "Publisher": "180",
-                "null": [
-                    ""
-                ]
+                "Pages": "fiction"
             },
             {
                 "Title": "Aghal Paghal",
                 "Author": "Deshpande, P L",
                 "Genre": "nonfiction",
-                "Pages": "212",
-                "Publisher": "Mauj"
+                "Pages": "212"
             },
             {
                 "Title": "Brethren",
                 "Author": " The",
                 "Genre": "Grisham, John",
-                "Pages": "fiction",
-                "Publisher": "174",
-                "null": [
-                    "Random House"
-                ]
+                "Pages": "fiction"
             },
             {
                 "Title": "Machine Learning for Hackers",
                 "Author": "Conway, Drew",
                 "Genre": "data_science",
-                "Pages": "233",
-                "Publisher": "O'Reilly"
+                "Pages": "233"
             }
         ]
     },
@@ -1470,59 +1149,43 @@
                 "Title": "Dongri to Dubai",
                 "Author": "Zaidi, Hussain",
                 "Genre": "nonfiction",
-                "Pages": "216",
-                "Publisher": ""
+                "Pages": "216"
             },
             {
                 "Title": "Empire of the Mughal - The Tainted Throne",
                 "Author": "Rutherford, Alex",
                 "Genre": "history",
-                "Pages": "180",
-                "Publisher": ""
+                "Pages": "180"
             },
             {
                 "Title": "Simpsons & Their Mathematical Secrets",
                 "Author": "Singh, Simon",
                 "Genre": "science",
-                "Pages": "233",
-                "Publisher": ""
+                "Pages": "233"
             },
             {
                 "Title": "Maugham's Collected Short Stories",
                 "Author": " Vol 3",
                 "Genre": "Maugham, William S",
-                "Pages": "fiction",
-                "Publisher": "171",
-                "null": [
-                    "Vintage"
-                ]
+                "Pages": "fiction"
             },
             {
                 "Title": "Gun Gayin Awadi",
                 "Author": "Deshpande, P L",
                 "Genre": "nonfiction",
-                "Pages": "212",
-                "Publisher": "Mauj"
+                "Pages": "212"
             },
             {
                 "Title": "Moon is Down",
                 "Author": " The",
                 "Genre": "Steinbeck, John",
-                "Pages": "fiction",
-                "Publisher": "196",
-                "null": [
-                    "Penguin"
-                ]
+                "Pages": "fiction"
             },
             {
                 "Title": "Analysis",
                 "Author": " Vol I",
                 "Genre": "Tao, Terence",
-                "Pages": "mathematics",
-                "Publisher": "248",
-                "null": [
-                    "HBA"
-                ]
+                "Pages": "mathematics"
             }
         ]
     },
@@ -1536,53 +1199,43 @@
                 "Title": "Courtroom Genius",
                 "Author": " The",
                 "Genre": "Sorabjee",
-                "Pages": "nonfiction",
-                "Publisher": "217",
-                "null": [
-                    ""
-                ]
+                "Pages": "nonfiction"
             },
             {
                 "Title": "Statistical Learning Theory",
                 "Author": "Vapnik, Vladimir",
                 "Genre": "data_science",
-                "Pages": "228",
-                "Publisher": ""
+                "Pages": "228"
             },
             {
                 "Title": "Doctor on the Brain",
                 "Author": "Gordon, Richard",
                 "Genre": "fiction",
-                "Pages": "204",
-                "Publisher": ""
+                "Pages": "204"
             },
             {
                 "Title": "Talking Straight",
                 "Author": "Iacoca, Lee",
                 "Genre": "nonfiction",
-                "Pages": "175",
-                "Publisher": ""
+                "Pages": "175"
             },
             {
                 "Title": "Radiowaril Bhashane & Shrutika",
                 "Author": "Deshpande, P L",
                 "Genre": "nonfiction",
-                "Pages": "213",
-                "Publisher": "Mauj"
+                "Pages": "213"
             },
             {
                 "Title": "Once There Was a War",
                 "Author": "Steinbeck, John",
                 "Genre": "nonfiction",
-                "Pages": "196",
-                "Publisher": "Penguin"
+                "Pages": "196"
             },
             {
                 "Title": "Making Software",
                 "Author": "Oram, Andy",
                 "Genre": "computer_science",
-                "Pages": "232",
-                "Publisher": "O'Reilly"
+                "Pages": "232"
             }
         ]
     },
@@ -1596,59 +1249,43 @@
                 "Title": "We the Nation",
                 "Author": "Palkhivala",
                 "Genre": "philosophy",
-                "Pages": "216",
-                "Publisher": ""
+                "Pages": "216"
             },
             {
                 "Title": "Vyakti ani Valli",
                 "Author": "Deshpande, P L",
                 "Genre": "nonfiction",
-                "Pages": "211",
-                "Publisher": ""
+                "Pages": "211"
             },
             {
                 "Title": "Trembling of a Leaf",
                 "Author": " The",
                 "Genre": "Maugham, William S",
-                "Pages": "fiction",
-                "Publisher": "205",
-                "null": [
-                    ""
-                ]
+                "Pages": "fiction"
             },
             {
                 "Title": "World's Greatest Short Stories",
                 "Author": " The",
                 "Genre": "",
-                "Pages": "fiction",
-                "Publisher": "217",
-                "null": [
-                    "Jaico"
-                ]
+                "Pages": "fiction"
             },
             {
                 "Title": "Social Choice & Welfare",
                 "Author": " Vol 39 No. 1",
                 "Genre": "Various",
-                "Pages": "economics",
-                "Publisher": "235",
-                "null": [
-                    "Springer"
-                ]
+                "Pages": "economics"
             },
             {
                 "Title": "Journal of a Novel",
                 "Author": "Steinbeck, John",
                 "Genre": "fiction",
-                "Pages": "196",
-                "Publisher": "Penguin"
+                "Pages": "196"
             },
             {
                 "Title": "Physics & Philosophy",
                 "Author": "Heisenberg, Werner",
                 "Genre": "science",
-                "Pages": "197",
-                "Publisher": "Penguin"
+                "Pages": "197"
             }
         ]
     },
@@ -1662,62 +1299,43 @@
                 "Title": "We the People",
                 "Author": "Palkhivala",
                 "Genre": "philosophy",
-                "Pages": "216",
-                "Publisher": ""
+                "Pages": "216"
             },
             {
                 "Title": "Grapes of Wrath",
                 "Author": " The",
                 "Genre": "Steinbeck, John",
-                "Pages": "fiction",
-                "Publisher": "196",
-                "null": [
-                    ""
-                ]
+                "Pages": "fiction"
             },
             {
                 "Title": "Short History of the World",
                 "Author": " A",
                 "Genre": "Wells, H G",
-                "Pages": "history",
-                "Publisher": "197",
-                "null": [
-                    ""
-                ]
+                "Pages": "history"
             },
             {
                 "Title": "Beyond the Three Seas",
                 "Author": "Dalrymple, William",
                 "Genre": "history",
-                "Pages": "197",
-                "Publisher": "Random House"
+                "Pages": "197"
             },
             {
                 "Title": "Last Mughal",
                 "Author": " The",
                 "Genre": "Dalrymple, William",
-                "Pages": "history",
-                "Publisher": "199",
-                "null": [
-                    "Penguin"
-                ]
+                "Pages": "history"
             },
             {
                 "Title": "Asami Asami",
                 "Author": "Deshpande, P L",
                 "Genre": "fiction",
-                "Pages": "205",
-                "Publisher": "Mauj"
+                "Pages": "205"
             },
             {
                 "Title": "New Machiavelli",
                 "Author": " The",
                 "Genre": "Wells, H. G.",
-                "Pages": "fiction",
-                "Publisher": "180",
-                "null": [
-                    "Penguin"
-                ]
+                "Pages": "fiction"
             }
         ]
     },
@@ -1731,56 +1349,43 @@
                 "Title": "Arthashastra",
                 "Author": " The",
                 "Genre": "Kautiyla",
-                "Pages": "philosophy",
-                "Publisher": "214",
-                "null": [
-                    ""
-                ]
+                "Pages": "philosophy"
             },
             {
                 "Title": "Neural Networks",
                 "Author": "Haykin, Simon",
                 "Genre": "data_science",
-                "Pages": "240",
-                "Publisher": ""
+                "Pages": "240"
             },
             {
                 "Title": "Political Philosophers",
                 "Author": "",
                 "Genre": "philosophy",
-                "Pages": "162",
-                "Publisher": ""
+                "Pages": "162"
             },
             {
                 "Title": "Identity & Violence",
                 "Author": "Sen, Amartya",
                 "Genre": "philosophy",
-                "Pages": "219",
-                "Publisher": "Penguin"
+                "Pages": "219"
             },
             {
                 "Title": "Ahe Manohar Tari",
                 "Author": "Deshpande, Sunita",
                 "Genre": "nonfiction",
-                "Pages": "213",
-                "Publisher": "Mauj"
+                "Pages": "213"
             },
             {
                 "Title": "Story of Philosophy",
                 "Author": " The",
                 "Genre": "Durant, Will",
-                "Pages": "philosophy",
-                "Publisher": "170",
-                "null": [
-                    "Pocket"
-                ]
+                "Pages": "philosophy"
             },
             {
                 "Title": "Data Mining Handbook",
                 "Author": "Nisbet, Robert",
                 "Genre": "data_science",
-                "Pages": "242",
-                "Publisher": "Apress"
+                "Pages": "242"
             }
         ]
     },
@@ -1794,59 +1399,43 @@
                 "Title": "Justice",
                 "Author": " Judiciary and Democracy",
                 "Genre": "Ranjan, Sudhanshu",
-                "Pages": "philosophy",
-                "Publisher": "224",
-                "null": [
-                    ""
-                ]
+                "Pages": "philosophy"
             },
             {
                 "Title": "Power Electronics - Mohan",
                 "Author": "Mohan, Ned",
                 "Genre": "computer_science",
-                "Pages": "237",
-                "Publisher": ""
+                "Pages": "237"
             },
             {
                 "Title": "Moon and Sixpence",
                 "Author": " The",
                 "Genre": "Maugham, William S",
-                "Pages": "fiction",
-                "Publisher": "180",
-                "null": [
-                    ""
-                ]
+                "Pages": "fiction"
             },
             {
                 "Title": "Down and Out in Paris & London",
                 "Author": "Orwell, George",
                 "Genre": "nonfiction",
-                "Pages": "179",
-                "Publisher": "Penguin"
+                "Pages": "179"
             },
             {
                 "Title": "Scoop!",
                 "Author": "Nayar, Kuldip",
                 "Genre": "history",
-                "Pages": "216",
-                "Publisher": "HarperCollins"
+                "Pages": "216"
             },
             {
                 "Title": "Hidden Connections",
                 "Author": " The",
                 "Genre": "Capra, Fritjof",
-                "Pages": "science",
-                "Publisher": "197",
-                "null": [
-                    "HarperCollins"
-                ]
+                "Pages": "science"
             },
             {
                 "Title": "Statistical Decision Theory'",
                 "Author": "Pratt, John",
                 "Genre": "data_science",
-                "Pages": "236",
-                "Publisher": "MIT Press"
+                "Pages": "236"
             }
         ]
     },
@@ -1860,56 +1449,43 @@
                 "Title": "Oxford book of Modern Science Writing",
                 "Author": "Dawkins, Richard",
                 "Genre": "science",
-                "Pages": "240",
-                "Publisher": ""
+                "Pages": "240"
             },
             {
                 "Title": "Power Electronics - Rashid",
                 "Author": "Rashid, Muhammad",
                 "Genre": "computer_science",
-                "Pages": "235",
-                "Publisher": ""
+                "Pages": "235"
             },
             {
                 "Title": "Rosy is My Relative",
                 "Author": "Durrell, Gerald",
                 "Genre": "fiction",
-                "Pages": "176",
-                "Publisher": ""
+                "Pages": "176"
             },
             {
                 "Title": "Doctor in the Nude",
                 "Author": "Gordon, Richard",
                 "Genre": "fiction",
-                "Pages": "179",
-                "Publisher": "Penguin"
+                "Pages": "179"
             },
             {
                 "Title": "Prisoner of Birth",
                 "Author": " A",
                 "Genre": "Archer, Jeffery",
-                "Pages": "fiction",
-                "Publisher": "176",
-                "null": [
-                    "Pan"
-                ]
+                "Pages": "fiction"
             },
             {
                 "Title": "Freakonomics",
                 "Author": "Dubner, Stephen",
                 "Genre": "economics",
-                "Pages": "197",
-                "Publisher": "Penguin"
+                "Pages": "197"
             },
             {
                 "Title": "Trial",
                 "Author": " The",
                 "Genre": "Kafka, Frank",
-                "Pages": "fiction",
-                "Publisher": "198",
-                "null": [
-                    "Random House"
-                ]
+                "Pages": "fiction"
             }
         ]
     }
