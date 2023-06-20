@@ -11,7 +11,7 @@ def book_distribution():
             book_res = {
                 key: value
                 for key, value in i.items()
-                if key in ["Title", "Author", "Genre", "Pages"]
+                if key in ("Title", "Author", "Genre", "Pages")
             }
             new_books.append(book_res)
 
@@ -26,7 +26,7 @@ def book_distribution():
         user_res = {
             key: value
             for key, value in user.items()
-            if key in ["name", "gender", "address", "age", "books"]
+            if key in ("name", "gender", "address", "age", "books")
         }
         user_res["books"] = []
         users_result.append(user_res)
